@@ -1,4 +1,4 @@
-# Card_Trick_Python
+# card-trick-python
 
 ## Overview
 This Python program simulates a card trick where the user selects a card from a dealt set of cards, and through a series of interactions, the program identifies the user's chosen card. The trick involves dealing cards into three columns, prompting the user to select the column containing their card, and then rearranging and redealing the cards multiple times. After three rounds of selection, the program reveals the user's "secret card."
